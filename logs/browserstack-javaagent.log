@@ -1,0 +1,1653 @@
+12:49:36.500 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+12:49:36.502 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+12:49:36.670 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected
+12:49:37.162 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 com.bonfatti.tests.InvestimentMenu
+12:49:37.179 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://sample.app]
+12:49:37.179 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+12:49:41.223 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:49:41.612 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:49:48.109 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:49:48.914 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+12:49:48.916 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+12:49:48.916 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+12:49:52.677 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:49:52.720 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:49:52.722 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:49:56.401 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/a2e7c06ea31419374237cc2ede1fc9675475a89d
+12:49:56.401 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:07:44.762 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+13:07:44.764 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+13:07:44.955 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+13:07:45.485 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 com.bonfatti.tests.InvestimentMenu,testLogin
+13:07:45.522 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b8b451b4f95e602bb255fdd7fccba35c8f198766]
+13:07:45.522 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+13:07:50.258 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+13:07:50.583 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:07:56.660 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:07:57.576 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+13:07:57.577 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+13:07:57.577 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+13:08:01.866 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+13:08:01.876 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+13:08:01.900 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+13:08:15.282 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+13:08:15.284 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+13:08:15.462 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+13:08:15.890 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 com.bonfatti.tests.InvestimentMenu,testLogin
+13:08:15.909 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b8b451b4f95e602bb255fdd7fccba35c8f198766]
+13:08:15.909 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+13:08:19.412 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+13:08:19.717 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:08:25.324 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:08:26.238 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+13:08:26.239 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+13:08:26.241 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+13:08:30.025 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+13:08:30.100 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+13:08:30.134 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+13:11:32.231 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+13:11:32.234 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+13:11:32.403 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+13:11:32.867 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 com.bonfatti.tests.InvestimentMenu,testLogin
+13:11:32.882 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b8b451b4f95e602bb255fdd7fccba35c8f198766]
+13:11:32.882 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+13:11:36.555 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+13:11:36.853 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:11:42.729 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:11:43.516 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+13:11:43.516 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+13:11:43.518 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+13:11:47.231 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+13:11:47.233 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+13:11:47.255 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+13:17:22.628 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+13:17:22.630 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+13:17:22.803 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+13:17:23.317 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 com.bonfatti.tests.InvestimentMenu,testLogin
+13:17:23.333 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b8b451b4f95e602bb255fdd7fccba35c8f198766]
+13:17:23.333 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+13:17:27.212 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+13:17:27.660 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:17:34.067 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:17:34.875 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+13:17:34.875 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+13:17:34.876 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+13:17:38.636 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+13:17:38.655 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+13:17:38.736 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+14:36:34.699 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+14:36:34.701 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+14:36:34.917 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+14:36:40.518 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 com.bonfatti.tests.InvestimentMenu,testLogin
+14:36:40.541 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b8b451b4f95e602bb255fdd7fccba35c8f198766]
+14:36:40.541 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+14:36:44.697 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+14:36:45.034 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+14:36:51.438 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+14:36:52.353 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+14:36:52.353 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+14:36:52.353 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+14:37:01.281 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+14:37:01.285 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+14:37:01.301 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:38:22.827 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:38:22.830 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:38:23.048 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:38:23.770 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 com.bonfatti.tests.InvestimentMenu,testLogin
+15:38:23.793 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b8b451b4f95e602bb255fdd7fccba35c8f198766]
+15:38:23.793 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+15:38:27.618 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:38:28.352 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:38:34.580 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:38:35.435 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:38:35.435 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:38:35.435 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:38:39.169 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:38:39.169 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:38:39.221 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:39:41.414 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:39:41.417 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:39:41.647 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:39:42.190 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 com.bonfatti.tests.InvestimentMenu,testLogin
+15:39:42.223 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b8b451b4f95e602bb255fdd7fccba35c8f198766]
+15:39:42.223 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+15:39:45.521 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:39:45.823 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:39:52.154 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:39:53.155 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:39:53.157 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:39:56.948 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:39:56.980 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:44:40.073 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:44:40.075 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:44:40.296 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:44:40.870 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 com.bonfatti.tests.InvestimentMenu,testLogin
+15:44:40.887 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b8b451b4f95e602bb255fdd7fccba35c8f198766]
+15:44:40.887 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+15:44:44.926 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:44:45.331 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:44:50.625 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:44:51.498 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:44:51.498 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:44:51.499 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:44:55.241 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:44:55.253 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:44:55.272 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:45:07.883 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:45:07.885 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:45:08.054 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:45:08.474 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 com.bonfatti.tests.InvestimentMenu,testLogin
+15:45:08.491 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b8b451b4f95e602bb255fdd7fccba35c8f198766]
+15:45:08.491 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+15:45:11.823 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:45:12.133 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:45:18.131 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:45:19.052 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:45:19.052 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:45:19.052 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:45:22.865 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:45:22.865 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:45:22.917 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:46:30.520 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:46:30.523 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:46:46.362 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:46:46.366 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:46:46.582 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:46:47.186 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 com.bonfatti.tests.InvestimentMenu,testLogin
+15:46:47.214 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://b8b451b4f95e602bb255fdd7fccba35c8f198766]
+15:46:47.214 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+15:46:50.695 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:46:51.343 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:46:57.504 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:46:58.419 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:46:58.420 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java/browserstack.yml
+15:47:02.112 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:47:02.122 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+15:50:17.523 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:50:17.526 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:50:17.746 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+15:50:17.746 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+15:50:17.747 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+15:50:50.719 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:50:50.724 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:50:51.124 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+15:50:51.124 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+15:50:51.126 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+15:52:50.509 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:52:50.514 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:52:50.956 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+15:52:50.956 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+15:52:50.958 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+15:53:35.749 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:53:35.754 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:53:36.196 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+15:53:36.197 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+15:53:36.199 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+16:04:10.117 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+16:04:10.119 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+16:04:10.312 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+16:04:10.312 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+16:04:10.314 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+19:21:47.540 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+19:21:47.542 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+19:21:47.728 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+19:21:47.728 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+19:21:47.729 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+19:23:49.821 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+19:23:49.824 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+19:23:50.041 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+19:23:50.042 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+19:23:50.043 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+19:26:06.339 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+19:26:06.341 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+19:26:06.536 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+19:26:06.536 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+19:26:06.537 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+19:29:13.587 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+19:29:13.590 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+19:29:13.787 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+19:29:13.787 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+19:29:13.788 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+19:31:08.374 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+19:31:08.376 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+19:31:08.597 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+19:31:08.597 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+19:31:08.599 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+19:41:01.200 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+19:41:01.203 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+19:41:01.425 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+19:41:01.425 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+19:41:01.427 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+19:41:21.489 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+19:41:21.492 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+19:41:21.700 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+19:41:21.700 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+19:41:21.701 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+19:41:54.246 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+19:41:54.249 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+19:41:54.457 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+19:41:54.457 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+19:41:54.459 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+19:42:20.297 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+19:42:20.300 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+19:42:20.527 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+19:42:20.527 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+19:42:20.529 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+19:47:05.907 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+19:47:05.910 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+19:47:06.112 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+19:47:06.112 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+19:47:06.113 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+19:56:42.493 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+19:56:42.495 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+19:56:42.676 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+19:56:42.676 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+19:56:42.677 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+19:58:19.222 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+19:58:19.225 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+19:58:19.442 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+19:58:19.442 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+19:58:19.443 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+19:59:49.983 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+19:59:49.986 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+19:59:50.181 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+19:59:50.181 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+19:59:50.182 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:00:15.768 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:00:15.771 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:00:15.947 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:00:15.947 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:00:15.948 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:01:27.788 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:01:27.790 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:01:27.968 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:01:27.968 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:01:27.969 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:02:27.270 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:02:27.272 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:02:27.461 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:02:27.461 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:02:27.462 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:02:48.588 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:02:48.590 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:02:48.750 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:02:48.750 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:02:48.751 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:11:42.508 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:11:42.510 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:11:42.701 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:11:42.702 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:11:42.703 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:16:45.989 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:16:45.992 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:16:46.180 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:16:46.180 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:16:46.181 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:53:21.195 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:53:21.197 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:53:21.411 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:53:21.411 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:53:21.412 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+11:23:48.027 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+11:23:48.032 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+11:23:48.419 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+11:23:48.420 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+11:23:48.421 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+11:25:06.822 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+11:25:06.827 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+11:25:07.169 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+11:25:07.170 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+11:25:07.172 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+11:29:38.229 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+11:29:38.232 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+11:29:38.476 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+11:29:38.476 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+11:29:38.477 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+11:30:54.278 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+11:30:54.283 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+11:30:54.648 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+11:30:54.648 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+11:30:54.649 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+11:57:21.947 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+11:57:21.949 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+11:57:22.206 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+11:57:22.206 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+11:57:22.207 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+12:00:42.896 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+12:00:42.900 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+12:00:43.159 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+12:00:43.159 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+12:00:43.160 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+12:01:37.796 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+12:01:37.799 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+12:01:38.008 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+12:01:38.008 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+12:01:38.009 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+12:02:40.881 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+12:02:40.884 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+12:02:41.191 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+12:02:41.191 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+12:02:41.193 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+13:00:30.751 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+13:00:30.754 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+13:00:30.951 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+13:00:30.952 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+13:00:30.953 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+13:01:53.726 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+13:01:53.731 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+13:01:54.171 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+13:01:54.171 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+13:01:54.173 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+13:02:19.873 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+13:02:19.876 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+13:02:20.180 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+13:02:20.180 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+13:02:20.182 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+13:02:58.086 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+13:02:58.089 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+13:02:58.322 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+13:02:58.323 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+13:02:58.325 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+14:14:29.937 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+14:14:29.951 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+14:14:31.134 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+14:14:31.134 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+14:14:31.140 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+14:16:22.896 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+14:16:22.909 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+14:16:24.827 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+14:16:24.828 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+14:16:24.837 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+14:30:56.753 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+14:30:56.764 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+14:30:58.081 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+14:30:58.081 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+14:30:58.093 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+14:41:12.792 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+14:41:12.809 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+14:41:16.144 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+14:41:16.145 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+14:41:16.152 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+14:43:01.814 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+14:43:01.841 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+14:43:05.311 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+14:43:05.312 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+14:43:05.320 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+15:00:53.623 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:00:53.642 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:00:55.144 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+15:00:55.145 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+15:00:55.150 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+15:02:06.732 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:02:06.752 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:02:08.084 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+15:02:08.085 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+15:02:08.097 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+15:07:37.539 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:07:37.574 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:07:41.572 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+15:07:41.586 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+15:07:41.606 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+15:28:44.544 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:28:44.560 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:28:46.612 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+15:28:46.613 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+15:28:46.619 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+15:43:36.855 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:43:36.867 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:43:37.957 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+15:43:37.958 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+15:43:37.985 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+15:44:47.188 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:44:47.199 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:44:49.627 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+15:44:49.645 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+15:44:49.651 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+15:45:44.484 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:45:44.508 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:45:46.643 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+15:45:46.643 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+15:45:46.660 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+15:50:09.502 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:50:09.505 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:50:09.776 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+15:50:09.776 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+15:50:09.778 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+15:51:23.381 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:51:23.391 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:51:24.133 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+15:51:24.134 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+15:51:24.144 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+15:55:49.790 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:55:49.794 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:55:50.221 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+15:55:50.222 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+15:55:50.223 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+15:57:02.406 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+15:57:02.413 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+15:57:02.890 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+15:57:02.891 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+15:57:02.893 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+16:22:04.067 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+16:22:04.073 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+16:22:04.564 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+16:22:04.564 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+16:22:04.567 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+16:36:58.454 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+16:36:58.458 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+16:36:58.689 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+16:36:58.689 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+16:36:58.692 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+16:37:12.609 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+16:37:12.612 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+16:37:12.818 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+16:37:12.818 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+16:37:12.819 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+16:38:33.592 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+16:38:33.597 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+16:38:33.919 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+16:38:33.919 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+16:38:33.920 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+16:39:05.896 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+16:39:05.901 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+16:39:06.337 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+16:39:06.338 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+16:39:06.339 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+17:06:22.710 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+17:06:22.712 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+17:06:22.912 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+17:06:22.912 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+17:06:22.913 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+17:17:06.526 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+17:17:06.528 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+17:17:06.740 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+17:17:06.740 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+17:17:06.741 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+17:23:53.233 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+17:23:53.236 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+17:23:53.439 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+17:23:53.439 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+17:23:53.440 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+17:25:10.582 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+17:25:10.585 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+17:25:10.790 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+17:25:10.790 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+17:25:10.791 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+17:26:55.375 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+17:26:55.377 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+17:26:55.582 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+17:26:55.582 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+17:26:55.583 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+17:29:41.271 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+17:29:41.272 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+17:29:41.461 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+17:29:41.461 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+17:29:41.462 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+17:30:28.375 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+17:30:28.377 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+17:30:28.585 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+17:30:28.585 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+17:30:28.586 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+17:31:04.638 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+17:31:04.640 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+17:31:04.815 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+17:31:04.815 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+17:31:04.816 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:00:11.736 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:00:11.738 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:00:11.972 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:00:11.972 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:00:11.973 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:01:06.148 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:01:06.151 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:01:06.354 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:01:06.354 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:01:06.355 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:02:37.243 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:02:37.246 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:02:37.447 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:02:37.447 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:02:37.448 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:03:31.181 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:03:31.184 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:03:31.371 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:03:31.371 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:03:31.372 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:05:26.644 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:05:26.646 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:05:26.873 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:05:26.874 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:05:26.875 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:17:11.748 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:17:11.751 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:17:11.992 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:17:11.992 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:17:11.993 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:38:15.187 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:38:15.191 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:38:15.477 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:38:15.477 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:38:15.478 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:38:31.765 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:38:31.769 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:38:32.050 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:38:32.050 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:38:32.051 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:40:39.382 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:40:39.384 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:40:39.614 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:40:39.614 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:40:39.615 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:41:04.839 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:41:04.842 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:41:05.058 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:41:05.058 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:41:05.059 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+20:45:42.837 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+20:45:42.841 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+20:45:43.192 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+20:45:43.192 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:45:43.194 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+09:39:39.005 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+09:39:39.008 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+09:39:39.205 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+09:39:39.205 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+09:39:39.206 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+09:41:16.477 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+09:41:16.479 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+09:41:16.674 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+09:41:16.674 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+09:41:16.675 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+10:33:27.217 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+10:33:27.219 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+10:33:27.440 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+10:33:27.440 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+10:33:27.441 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+10:36:21.114 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+10:36:21.117 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+10:36:21.330 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+10:36:21.331 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+10:36:21.332 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+11:25:41.429 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+11:25:41.431 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+11:25:41.631 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+11:25:41.632 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+11:25:41.633 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+12:15:37.195 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+12:15:37.197 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+12:15:37.405 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+12:15:37.405 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+12:15:37.406 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+12:16:53.712 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+12:16:53.714 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+12:16:53.920 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+12:16:53.921 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+12:16:53.922 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+12:24:04.478 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+12:24:04.480 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+12:24:04.676 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+12:24:04.677 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+12:24:04.678 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+12:25:18.376 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+12:25:18.378 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+12:25:18.585 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+12:25:18.585 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+12:25:18.586 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+12:27:08.410 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+12:27:08.412 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+12:27:08.611 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+12:27:08.611 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+12:27:08.612 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+12:31:53.652 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+12:31:53.654 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+12:31:53.846 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+12:31:53.846 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+12:31:53.847 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+12:41:51.575 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+12:41:51.577 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+12:41:51.781 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+12:41:51.781 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+12:41:51.782 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+12:43:26.879 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+12:43:26.881 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+12:43:27.087 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+12:43:27.087 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+12:43:27.089 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+12:46:39.387 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+12:46:39.390 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+12:46:39.589 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+12:46:39.589 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+12:46:39.590 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+12:47:51.738 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+12:47:51.740 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+12:47:51.949 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+12:47:51.950 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+12:47:51.951 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
+12:48:03.203 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.17.0
+12:48:03.205 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+12:48:03.380 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+12:48:03.380 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+12:48:03.381 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/tqi_cbonfatti/Documents/Projeto/e2e-core-pagbank-java. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:513)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:525)
+
