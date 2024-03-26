@@ -1,4 +1,4 @@
-# e2e-Automatiion-test-java
+# e2e-automatiion-test-java
 
 # Projeto de Testes Mobile com Appium e JUnit
 
